@@ -1,3 +1,5 @@
+// http://reactivex.io/documentation/operators.html
+
 // That, my friend, is a stream of events, kindly nicknamed "Observable".
 // But what if I'm only interested in click events 
 // where x < 250? Well can't we just create a new stream by filtering like we did with arrays?
